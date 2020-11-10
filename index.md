@@ -19,7 +19,12 @@ The Campus Cravings app enables you to login on your phone and determine:
 
 ## Pages
 
-These are the following pages in our website.
+These are the following pages we will use as inspiration for our Campus Cravings our website.
+
+![](images/mockup-example.png)
+
+![](images/burger-king.jpg)
+
 
 ### Landing page
 
