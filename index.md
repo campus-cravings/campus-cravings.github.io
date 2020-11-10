@@ -52,4 +52,3 @@ Presents foods that different establishments on campus are currently serving.
 ### Today’s top picks page
 
 You know you want it.
-
