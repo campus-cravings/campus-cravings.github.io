@@ -15,7 +15,7 @@ The Campus Cravings app aims to solve this problem by providing an up-to-date re
 
 ## Pages
 
-These are the following pages we will use as inspiration for our Campus Cravings our website.
+These are the following pages we will use as inspiration for our Campus Cravings website.
 
 ![](images/mockup-example.png)
 
