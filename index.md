@@ -7,6 +7,8 @@
 
 ### The problem
 
+Since UH Manoa's campus has a variety of food vendors, it can be difficult for students and staff to keep up with what's available.
+
 There are many food choices on campus: campus center, food trucks, Manoa Gardens, Paradise Palms, vending machines, and so forth. Let’s say you have a desire for chinese food today for lunch. What places on campus are serving chinese food menu items today? Alternatively, let’s say that you love the fresh salmon fillet at Campus Center, but that dish is only served once every few weeks. How do you find out on the day that it’s available?
 
 ### The solution
