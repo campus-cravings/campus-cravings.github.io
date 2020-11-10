@@ -7,17 +7,11 @@
 
 ### The problem
 
-Since UH Manoa's campus has a variety of food vendors, it can be difficult for students and staff to keep up with what's available.
-
 There are many food choices on campus: campus center, food trucks, Manoa Gardens, Paradise Palms, vending machines, and so forth. Let’s say you have a desire for chinese food today for lunch. What places on campus are serving chinese food menu items today? Alternatively, let’s say that you love the fresh salmon fillet at Campus Center, but that dish is only served once every few weeks. How do you find out on the day that it’s available?
 
 ### The solution
 
-The Campus Cravings app enables you to login on your phone and determine:
-
-* What specific menu items will be available today at campus center locations;
-* What food is available right now.
-* When a style of food you love is available today.
+The Campus Cravings app aims to solve this problem by providing an up-to-date resource on everything food related at UH Manoa. Our completed product will allow vendors to create online menus detailing when and where certain dishes will be avaliable. Students will be able to view the food avaliable in the moment ans well as browse the top picks of the day.
 
 ## Pages
 
