@@ -5,6 +5,8 @@
 
 ## Overview
 
+*Created by Alexander Lum, Rainier Javillo, Riley Sodetani and Ty Ikenaga*
+
 ### The problem
 
 Since University of Hawaii at Manoa's campus has a variety of food vendors, it can be difficult for students and staff to keep up with what's available. Many of the locations on campus have different choices, depending what they decide to offer on any given day. There is no easy and concise way to track all of these options and their daily menus: Paradise Palms, campus center, food trucks, etc.
