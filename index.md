@@ -11,7 +11,7 @@ There are many food choices on campus: campus center, food trucks, Manoa Gardens
 
 ### The solution
 
-The Campus Cravings app aims to solve this problem by providing an up-to-date resource on everything food related at UH Manoa. Our completed product will allow vendors to create online menus detailing when and where certain dishes will be avaliable. Students will be able to view the food avaliable in the moment ans well as browse the top picks of the day.
+The Campus Cravings app aims to solve this problem by providing an up-to-date resource on everything food related at UH Manoa. Our completed product will allow vendors to create online menus detailing when and where certain dishes will be avaliable. Students will be able to view the food avaliable in the moment as well as browse the top picks of the day.
 
 ## Pages
 
@@ -24,7 +24,7 @@ These are the following pages we will use as inspiration for our Campus Cravings
 
 ### Landing page
 
-The landing page is presented to users when they visit the top-level URL to the site.
+The landing page is presented to users when they visit the top-level URL to the site. This page is meant to capture the user's attention.
 
 ### User home page
 
