@@ -11,7 +11,7 @@ There are many food choices on campus: campus center, food trucks, Manoa Gardens
 
 ### The solution
 
-The Manoa Munchie app enables you to login on your phone and determine:
+The Campus Cravings app enables you to login on your phone and determine:
 
 * What specific menu items will be available today at campus center locations;
 * What food is available right now.
