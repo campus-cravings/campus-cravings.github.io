@@ -19,24 +19,27 @@ The Campus Cravings app aims to solve this problem by providing an up-to-date re
 
 These are the following pages we will use as inspiration for our Campus Cravings website.
 
-![](images/mockup-example.png)
-
-![](images/burger-king.jpg)
-
-
 ### Landing page
+
+![](images/cc-landing-mockup.png)
 
 The landing page is presented to users when they visit the top-level URL to the site. This page is meant to capture the user's attention.
 
 ### User home page
 
+![](images/cc-user-mockup.png)
+
 Similar to the landing page but more detailed about the functions and features of the site.
 
 ### Vendor home page
 
+![](images/cc-vendor-mockup.png)
+
 Allows different restaurants, cafes, eateries, food trucks and bars around the campus to specify their choices of the day or modify their profile.
 
 ### Admin home page
+
+![](images/cc-admin-mockup.png)
 
 Management stuff for the owner to administer the website.
 
