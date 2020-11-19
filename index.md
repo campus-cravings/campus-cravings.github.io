@@ -42,8 +42,6 @@ Allows different restaurants, cafes, eateries, food trucks and bars around the c
 
 ### Admin home page
 
-![](images/cc-admin-mockup.png)
-
 Management stuff for the owner to administer the website.
 
 ### Add Vendor page
@@ -52,9 +50,13 @@ Add a vendor for another food establishment.
 
 ### User profile page
 
+![](images/m1-user-profile.png)
+
 This page is where user profiles are created. Users can personalize a list of restaurants they love and notify themselves if a menu they like is available.
 
 ### Foods available right now page
+
+![](images/m1-menu.png)
 
 Presents foods that different establishments on campus are currently serving.
 
