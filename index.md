@@ -28,7 +28,7 @@ http://165.227.8.196
 * [Add vendor page](#add-vendor-page)
 * [User profile page](#user-home-page)
 * [Foods available page](#foods-available-page)
-* [Today's top picks page](#today's-top-picks-page)
+* [Today's top picks page](#todays-top-picks-page)
 
 
 ### Landing page
