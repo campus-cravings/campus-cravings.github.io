@@ -2,6 +2,7 @@
 
 * [Overview](#overview)
 * [Pages](#pages)
+* [Digital Ocean](#digital-ocean)
 
 ## Overview
 
@@ -22,6 +23,13 @@ http://165.227.8.196
 
 * [Landing page](#landing-page)
 * [User home page](#user-home-page)
+* [Vendor home page](#vendor-home-page)
+* [Admin home page](#admin-home-page)
+* [Add vendor page](#add-vendor-page)
+* [User profile page](#user-home-page)
+* [Foods available page](#foods-available-page)
+* [Today's top picks page](#today's-top-picks-page)
+
 
 ### Landing page
 
@@ -59,7 +67,7 @@ Add a vendor for another food establishment.
 
 This page is where user profiles are created. Users can personalize a list of restaurants they love and notify themselves if a menu they like is available.
 
-### Foods available right now page
+### Foods available page
 
 ![](images/m1-menu.png)
 
