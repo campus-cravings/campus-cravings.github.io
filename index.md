@@ -33,7 +33,7 @@ Similar to the landing page but more detailed about the functions and features o
 
 ### Vendor home page
 
-![](images/m1-list-restaurants.jpg)
+![](images/m1-list-restaurants.png)
 
 Allows different restaurants, cafes, eateries, food trucks and bars around the campus to specify their choices of the day or modify their profile.
 
