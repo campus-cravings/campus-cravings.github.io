@@ -20,7 +20,8 @@ http://165.227.8.196
 
 ## Pages
 
-These are the following pages we will use as inspiration for our Campus Cravings website.
+* [Landing page](#landing-page)
+* [User home page](#user-home-page)
 
 ### Landing page
 
@@ -28,11 +29,15 @@ These are the following pages we will use as inspiration for our Campus Cravings
 
 The landing page is presented to users when they visit the top-level URL to the site. This page is meant to capture the user's attention.
 
+[Go to landing](http://165.227.8.196/#/)
+
 ### User home page
 
 ![](images/m1-home-page.jpg)
 
 Similar to the landing page but more detailed about the functions and features of the site.
+
+[Go to page](http://165.227.8.196/#/)
 
 ### Vendor home page
 
