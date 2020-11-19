@@ -21,19 +21,19 @@ These are the following pages we will use as inspiration for our Campus Cravings
 
 ### Landing page
 
-![](images/cc-landing-mockup.png)
+![](images/m1-landing-page.jpg)
 
 The landing page is presented to users when they visit the top-level URL to the site. This page is meant to capture the user's attention.
 
 ### User home page
 
-![](images/cc-user-mockup.png)
+![](images/m1-home-page.jpg)
 
 Similar to the landing page but more detailed about the functions and features of the site.
 
 ### Vendor home page
 
-![](images/cc-vendor-mockup.png)
+![](images/m1-list-restaurants.jpg)
 
 Allows different restaurants, cafes, eateries, food trucks and bars around the campus to specify their choices of the day or modify their profile.
 
