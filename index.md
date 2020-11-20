@@ -54,7 +54,7 @@ The landing page is presented to users when they first visit the site. This page
 
 Similar to the landing page but the description and messages are geared more towards encouraging the user to tour other parts of the site, such as a link to edit their profile, view the menu, and view different restaurants. 
 
-[Go to page](http://165.227.8.196/#/)
+[Go to page](http://165.227.8.196/#/userhome)
 
 ### Vendor home page
 
@@ -80,7 +80,7 @@ This page is where user profiles are created. Users can personalize a list of re
 
 Displays a list of available restaurants or vendors. 
 
-[Go to restaurants page.](http://165.227.8.196/#/list)
+[Go to restaurants page.](http://165.227.8.196/#/vendor)
 
 ### Foods available page
 
