@@ -54,7 +54,7 @@ The landing page is presented to users when they first visit the site. This page
 
 Similar to the landing page but the description and messages are geared more towards encouraging the user to tour other parts of the site, such as a link to edit their profile, view the menu, and view different restaurants. 
 
-[Go to page](http://165.227.8.196/#/userhome)
+[Go to user home page](http://165.227.8.196/#/userhome)
 
 ### Vendor home page
 
