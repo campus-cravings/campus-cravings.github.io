@@ -2,9 +2,8 @@
 
 * [Overview](#overview)
 * [Digital Ocean](#digital-ocean)
-* [Milestones](#milestones)
 * [Pages](#pages)
-
+* [Milestones](#milestones)
 
 ## Overview
 
@@ -20,12 +19,6 @@ The Campus Cravings app aims to solve this problem by providing an up-to-date re
 
 ## Digital Ocean 
 [http://165.227.8.196](http://165.227.8.196)
-
-## Milestones
-
-* [M1](https://github.com/campus-cravings/campus-cravings/projects/1)
-
-* [M2](https://github.com/campus-cravings/campus-cravings/projects/2)
 
 ## Pages
 
@@ -95,3 +88,16 @@ Presents foods that different establishments on campus are currently serving.
 ### Today’s top picks page
 
 Sometimes users might want to try something new but they're unsure about what they want. This page makes it easy by showing top picks curated by restaurants. *In progress.*
+
+## Milestones
+
+### M1
+
+![](images/m1-finished-progress.png)
+
+Our finished M1 can be found [here](https://github.com/campus-cravings/campus-cravings/projects/1).
+
+### M2
+
+M2 is currently in progress and can be found [here](https://github.com/campus-cravings/campus-cravings/projects/2)
+
