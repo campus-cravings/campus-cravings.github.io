@@ -17,7 +17,7 @@ Since University of Hawaii at Manoa's campus has a variety of food vendors, it c
 The Campus Cravings app aims to solve this problem by providing an up-to-date resource on everything food related at UH Manoa. Our completed product will allow vendors to create online menus detailing when and where certain dishes will be avaliable. Students will be able to view the food avaliable in the moment as well as browse the top picks of the day.
 
 ## Digital Ocean 
-http://165.227.8.196
+[http://165.227.8.196](http://165.227.8.196)
 
 ## Pages
 
@@ -35,7 +35,7 @@ http://165.227.8.196
 
 ![](images/m1-landing-page.jpg)
 
-The landing page is presented to users when they visit the top-level URL to the site. This page is meant to capture the user's attention.
+The landing page is presented to users when they first visit the site. This page is meant to capture the user's attention. The banner consists of a large Campus Cravings logo with a picture of delicious poke bowls as the background. Below the banner are three cards that informs a user possible things they can do on the site. 
 
 [Go to landing](http://165.227.8.196/#/)
 
@@ -43,7 +43,7 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ![](images/m1-home-page.jpg)
 
-Similar to the landing page but more detailed about the functions and features of the site.
+Similar to the landing page but the description and messages are geared more towards encouraging the user to tour other parts of the site, such as a link to edit their profile, view the menu, and view different restaurants. 
 
 [Go to page](http://165.227.8.196/#/)
 
@@ -55,17 +55,17 @@ Allows different restaurants, cafes, eateries, food trucks and bars around the c
 
 ### Admin home page
 
-Management stuff for the owner to administer the website.
+Management stuff for the owner to administer the website. *In progress.*
 
 ### Add Vendor page
 
-Add a vendor for another food establishment.
+Add a vendor for another food establishment. *In progress.*
 
 ### User profile page
 
 ![](images/m1-user-profile.png)
 
-This page is where user profiles are created. Users can personalize a list of restaurants they love and notify themselves if a menu they like is available.
+This page is where user profiles are created. Users can personalize a list of restaurants they like to eat at as well as cuisine styles. 
 
 ### Foods available page
 
@@ -75,4 +75,4 @@ Presents foods that different establishments on campus are currently serving.
 
 ### Today’s top picks page
 
-You know you want it.
+Sometimes users might want to try something new but they're unsure about what they want. This page makes it easy by showing top picks curated by restaurants. *In progress.*
