@@ -46,7 +46,7 @@ The Campus Cravings app aims to solve this problem by providing an up-to-date re
 
 The landing page is presented to users when they first visit the site. This page is meant to capture the user's attention. The banner consists of a large Campus Cravings logo with a picture of delicious poke bowls as the background. Below the banner are three cards that informs a user possible things they can do on the site. 
 
-[Go to landing](http://165.227.8.196/#/)
+[Go to landing page.](http://165.227.8.196/#/)
 
 ### User home page
 
@@ -79,6 +79,8 @@ This page is where user profiles are created. Users can personalize a list of re
 ![](images/m1-list-restaurants.png)
 
 Displays a list of available restaurants or vendors. 
+
+[Go to restaurants page.](http://165.227.8.196/#/list)
 
 ### Foods available page
 
