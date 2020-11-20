@@ -35,7 +35,8 @@ The Campus Cravings app aims to solve this problem by providing an up-to-date re
 * [Admin home page](#admin-home-page)
 * [Add vendor page](#add-vendor-page)
 * [User profile page](#user-home-page)
-* [Foods available page](#foods-available-page)
+* [User profile page](#user-home-page)
+* [Restaurants page](#restaurants-page)
 * [Today's top picks page](#todays-top-picks-page)
 
 
@@ -57,9 +58,7 @@ Similar to the landing page but the description and messages are geared more tow
 
 ### Vendor home page
 
-![](images/m1-list-restaurants.png)
-
-Allows different restaurants, cafes, eateries, food trucks and bars around the campus to specify their choices of the day or modify their profile.
+Allows different restaurants, cafes, eateries, food trucks and bars around the campus to specify their choices of the day or modify their profile. *In progress.*
 
 ### Admin home page
 
@@ -74,6 +73,12 @@ Add a vendor for another food establishment. *In progress.*
 ![](images/m1-user-profile.png)
 
 This page is where user profiles are created. Users can personalize a list of restaurants they like to eat at as well as cuisine styles. 
+
+### Restaurants page
+
+![](images/m1-list-restaurants.png)
+
+Displays a list of available restaurants or vendors. 
 
 ### Foods available page
 
