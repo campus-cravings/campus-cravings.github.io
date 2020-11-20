@@ -1,8 +1,10 @@
 ## Table of Contents
 
 * [Overview](#overview)
-* [Pages](#pages)
 * [Digital Ocean](#digital-ocean)
+* [Milestones](#milestones)
+* [Pages](#pages)
+
 
 ## Overview
 
@@ -18,6 +20,12 @@ The Campus Cravings app aims to solve this problem by providing an up-to-date re
 
 ## Digital Ocean 
 [http://165.227.8.196](http://165.227.8.196)
+
+## Milestones
+
+* [M1](https://github.com/campus-cravings/campus-cravings/projects/1)
+
+* [M2](https://github.com/campus-cravings/campus-cravings/projects/2)
 
 ## Pages
 
