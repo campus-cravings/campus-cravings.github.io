@@ -74,6 +74,8 @@ Add a vendor for another food establishment. *In progress.*
 
 This page is where user profiles are created. Users can personalize a list of restaurants they like to eat at as well as cuisine styles. 
 
+[Go to user profile page.](http://165.227.8.196/#/profile)
+
 ### Restaurants page
 
 ![](images/m1-list-restaurants.png)
@@ -87,6 +89,8 @@ Displays a list of available restaurants or vendors.
 ![](images/m1-menu.png)
 
 Presents foods that different establishments on campus are currently serving.
+
+[Go to food avaliable page.](http://165.227.8.196/#/menu)
 
 ### Today’s top picks page
 
