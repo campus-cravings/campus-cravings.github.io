@@ -288,7 +288,7 @@ meteor npm run lint
 ```
 
 ## Digital Ocean Deployment
-[http://165.227.8.196](http://165.227.8.196)
+[http://157.230.89.84/](http://157.230.89.84/#/)
 
 ## Milestones
 
