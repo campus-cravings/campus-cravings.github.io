@@ -1,23 +1,22 @@
 ## Table of Contents
 
 * [Overview](#overview)
-* [Digital Ocean](#digital-ocean)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
+* [Digital Ocean Deployment](#digital-ocean-deployment)
 * [Pages](#pages)
 * [Milestones](#milestones)
+* [The Team](#milestones)
 
 ## Overview
 
-*Created by Alexander Lum, Rainier Javillo, Riley Sodetani and Ty Ikenaga*
-
-### The problem
-
+#### The problem
 Since University of Hawaii at Manoa's campus has a variety of food vendors, it can be difficult for students and staff to keep up with what's available. Many of the locations on campus have different choices, depending what they decide to offer on any given day. There is no easy and concise way to track all of these options and their daily menus: Paradise Palms, campus center, food trucks, etc.
 
-### The solution
-
+#### The solution
 The Campus Cravings app aims to solve this problem by providing an up-to-date resource on everything food related at UH Manoa. Our completed product will allow vendors to create online menus detailing when and where certain dishes will be avaliable. Students will be able to view the food avaliable in the moment as well as browse the top picks of the day.
 
-## Digital Ocean 
+## Digital Ocean Deployment
 [http://165.227.8.196](http://165.227.8.196)
 
 ## Pages
@@ -99,5 +98,11 @@ Our finished M1 can be found [here](https://github.com/campus-cravings/campus-cr
 
 ### M2
 
-M2 is currently in progress and can be found [here](https://github.com/campus-cravings/campus-cravings/projects/2)
+Our finished M1 can be found [here](https://github.com/campus-cravings/campus-cravings/projects/2).
 
+### M3
+
+M3 is currently in progress and can be found [here](https://github.com/campus-cravings/campus-cravings/projects/3).
+
+## The Team
+*Created by [Alexander Lum](https://aklum3.github.io/), [Rainier Javillo](https://rainllo.github.io/), [Riley Sodetani](https://rileyts.github.io/), and [Ty Ikenaga](https://tikenaga.github.io/).*
