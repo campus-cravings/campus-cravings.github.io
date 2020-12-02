@@ -92,29 +92,33 @@ Allows different restaurants, cafes, eateries, food trucks and bars around the c
 
 Management stuff for the owner to administer the website. *In progress.*
 
-### Add Vendor page
+### Add Restaurants page
+
+![](images/m2-add-restaurants.PNG)
 
 Add a vendor for another food establishment. *In progress.*
 
 ### User profile page
 
-![](images/m1-user-profile.png)
+![](images/m2-my-profile.PNG)
 
-This page is where user profiles are created. Users can personalize a list of restaurants they like to eat at as well as cuisine styles. 
+This page is where user profiles are created. Users can add or remove preferences on the food they like to eat (ie. vegan, vegetarian, gluten-free, nut-free, hawaiian, etc.). 
 
 [Go to user profile page.](http://165.227.8.196/#/profile)
 
-### Restaurants page
+### List Restaurants page
 
-![](images/m1-list-restaurants.png)
+![](images/m2-list-restaurants-1.PNG)
+![](images/m2-list-restaurants-2.PNG)
 
 Displays a list of available restaurants or vendors. 
 
 [Go to restaurants page.](http://165.227.8.196/#/vendor)
 
-### Foods available page
+### Menu page
 
-![](images/m1-menu.png)
+![](images/m2-menu-1.PNG)
+![](images/m2-menu-2.PNG)
 
 Presents foods that different establishments on campus are currently serving.
 
@@ -122,7 +126,16 @@ Presents foods that different establishments on campus are currently serving.
 
 ### Today’s top picks page
 
+![](images/m2-top-picks-1.PNG)
+![](images/m2-top-picks-2.PNG)
+
 Sometimes users might want to try something new but they're unsure about what they want. This page makes it easy by showing top picks curated by restaurants. *In progress.*
+
+### Favorites
+
+![](images/m2-favorites.PNG)
+
+This page will show all of the current user's favorited menu items.
 
 ## Developer Guide
 
