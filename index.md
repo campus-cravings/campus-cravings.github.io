@@ -22,7 +22,6 @@ The Campus Cravings app aims to solve this problem by providing an up-to-date re
 * [Admin home page](#admin-home-page)
 * [Add vendor page](#add-vendor-page)
 * [User profile page](#user-home-page)
-* [User profile page](#user-home-page)
 * [Restaurants page](#restaurants-page)
 * [Today's top picks page](#todays-top-picks-page)
 
@@ -33,11 +32,49 @@ The Campus Cravings app aims to solve this problem by providing an up-to-date re
 
 The landing page is presented to users when they first visit the site. This page is meant to capture the user's attention. The banner consists of a large Campus Cravings logo with a picture of delicious poke bowls as the background. Below the banner are three cards that informs a user possible things they can do on the site. 
 
+The next step is to use the Login menu to either Login to an existing account or register a new account.
+
 [Go to landing page.](http://165.227.8.196/#/)
+
+#### Login page
+
+![](images/m2-login.png)
+
+Clicking on the Login link, then on the Sign In menu item displays this page.
+
+#### Register page
+
+![](images/m2-register.png)
+
+Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page.
+
+#### User Landing Page
+
+![](images/m2-user-landing.png)
+
+Once you log in to a user account (either to an existing account or by creating a new one), the navbar changes as shown above.
+
+You can now access the home page, today's top picks, favorites, list restaurants, menu, and my profile.
+
+#### Vendor Landing page
+*INSERT IMAGE*
+![](images/m2-vendor-landing.png)
+
+Once you log in to a vendor account (either to an existing account or by creating a new one), the navbar changes as shown above.
+
+On top of the user pages, you can also access the vendor home and add restaurants pages.
+
+#### Admin Landing page
+
+![](images/m2-admin-landing.png)
+
+Once you log in to a admin account (either to an existing account or by creating a new one), the navbar changes as shown above.
+
+On top of the user pages, you can also access the admin home and admin pages.
 
 ### User home page
 
-![](images/m1-home-page.jpg)
+![](images/m2-user-home-page.jpg)
 
 Similar to the landing page but the description and messages are geared more towards encouraging the user to tour other parts of the site, such as a link to edit their profile, view the menu, and view different restaurants. 
 
@@ -102,7 +139,7 @@ $ meteor npm run start
 ```
 
 The first time you run the app, it will create some default users and data. Here is a sample output:
-*Note that the output will actually be much longer and include all the data from private/data.json.*
+*(Note that the output will actually be much longer and include all the data from private/data.json)*
 ```
 meteor npm run start
 
