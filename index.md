@@ -38,7 +38,7 @@ The next step is to use the Login menu to either Login to an existing account or
 
 #### Login page
 
-![](images/m2-login.png)
+![](images/m2-login.PNG)
 
 Clicking on the Login link, then on the Sign In menu item displays this page.
 
