@@ -17,13 +17,20 @@ The Campus Cravings app aims to solve this problem by providing an up-to-date re
 
 ## User Guide
 * [Landing page](#landing-page)
-* [User home page](#user-home-page)
-* [Vendor home page](#vendor-home-page)
-* [Admin home page](#admin-home-page)
-* [Add vendor page](#add-vendor-page)
-* [User profile page](#user-home-page)
-* [Restaurants page](#restaurants-page)
-* [Today's top picks page](#todays-top-picks-page)
+* [Login page](#login-page)
+* [Register page](#register-page)
+* [User Landing page](#user-landing-page)
+* [Vendor Landing page](#vendor-landing-page)
+* [Admin Landing page](#admin-landing-page)
+* [User Home page](#user-home-page)
+* [Vendor Home page](#vendor-home-page)
+* [Admin Home page](#admin-home-page)
+* [Add Restaurants page](#add-restaurants-page)
+* [User Profile page](#user-profile-page)
+* [List Restaurants page](#list-restaurants-page)
+* [Menu page](#menu-page)
+* [Today's Top Picks page](#todays-top-picks-page)
+* [Favorites page](#favorites-page)
 
 
 ### Landing page
@@ -72,7 +79,7 @@ Once you log in to a admin account (either to an existing account or by creating
 
 On top of the user pages, you can also access the admin home and admin pages.
 
-### User home page
+### User Home page
 
 ![](images/m2-user-home-page.PNG)
 
@@ -80,13 +87,13 @@ Similar to the landing page but the description and messages are geared more tow
 
 [Go to user home page](http://165.227.8.196/#/userhome)
 
-### Vendor home page
+### Vendor Home page
 
 ![](images/m2-vendor-home-page.PNG)
 
 Allows different restaurants, cafes, eateries, food trucks and bars around the campus to specify their choices of the day or modify their profile. *In progress.*
 
-### Admin home page
+### Admin Home page
 
 ![](images/m2-admin-home-page.PNG)
 
@@ -98,7 +105,7 @@ Management stuff for the owner to administer the website. *In progress.*
 
 Add a vendor for another food establishment. *In progress.*
 
-### User profile page
+### User Profile page
 
 ![](images/m2-my-profile.PNG)
 
@@ -124,14 +131,14 @@ Presents foods that different establishments on campus are currently serving.
 
 [Go to food avaliable page.](http://165.227.8.196/#/menu)
 
-### Today’s top picks page
+### Today’s Top Picks page
 
 ![](images/m2-top-picks-1.PNG)
 ![](images/m2-top-picks-2.PNG)
 
 Sometimes users might want to try something new but they're unsure about what they want. This page makes it easy by showing top picks curated by restaurants. *In progress.*
 
-### Favorites
+### Favorites page
 
 ![](images/m2-favorites.PNG)
 
