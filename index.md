@@ -17,13 +17,20 @@ The Campus Cravings app aims to solve this problem by providing an up-to-date re
 
 ## User Guide
 * [Landing page](#landing-page)
-* [User home page](#user-home-page)
-* [Vendor home page](#vendor-home-page)
-* [Admin home page](#admin-home-page)
-* [Add vendor page](#add-vendor-page)
-* [User profile page](#user-home-page)
-* [Restaurants page](#restaurants-page)
-* [Today's top picks page](#todays-top-picks-page)
+* [Login page](#login-page)
+* [Register page](#register-page)
+* [User Landing page](#user-landing-page)
+* [Vendor Landing page](#vendor-landing-page)
+* [Admin Landing page](#admin-landing-page)
+* [User Home page](#user-home-page)
+* [Vendor Home page](#vendor-home-page)
+* [Admin Home page](#admin-home-page)
+* [Add Restaurants page](#add-restaurants-page)
+* [User Profile page](#user-profile-page)
+* [List Restaurants page](#list-restaurants-page)
+* [Menu page](#menu-page)
+* [Today's Top Picks page](#todays-top-picks-page)
+* [Favorites page](#favorites-page)
 
 
 ### Landing page
@@ -42,11 +49,15 @@ The next step is to use the Login menu to either Login to an existing account or
 
 Clicking on the Login link, then on the Sign In menu item displays this page.
 
+[Go to login page.](http://165.227.8.196/#/signin)
+
 #### Register page
 
 ![](images/m2-register.PNG)
 
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page.
+
+[Go to register page.](http://165.227.8.196/#/signup)
 
 #### User Landing Page
 
@@ -56,6 +67,8 @@ Once you log in to a user account (either to an existing account or by creating 
 
 You can now access the home page, today's top picks, favorites, list restaurants, menu, and my profile.
 
+[Go to user landing page.](http://165.227.8.196/#/)
+
 #### Vendor Landing page
 
 ![](images/m2-vendor-landing.PNG)
@@ -63,6 +76,8 @@ You can now access the home page, today's top picks, favorites, list restaurants
 Once you log in to a vendor account (either to an existing account or by creating a new one), the navbar changes as shown above.
 
 On top of the user pages, you can also access the vendor home and add restaurants pages.
+
+[Go to vendor landing page.](http://165.227.8.196/#/)
 
 #### Admin Landing page
 
@@ -72,7 +87,9 @@ Once you log in to a admin account (either to an existing account or by creating
 
 On top of the user pages, you can also access the admin home and admin pages.
 
-### User home page
+[Go to admin landing page.](http://165.227.8.196/#/)
+
+### User Home page
 
 ![](images/m2-user-home-page.PNG)
 
@@ -80,17 +97,21 @@ Similar to the landing page but the description and messages are geared more tow
 
 [Go to user home page](http://165.227.8.196/#/userhome)
 
-### Vendor home page
+### Vendor Home page
 
 ![](images/m2-vendor-home-page.PNG)
 
 Allows different restaurants, cafes, eateries, food trucks and bars around the campus to specify their choices of the day or modify their profile. *In progress.*
 
-### Admin home page
+[Go to vendor home page.](http://165.227.8.196/#/vendorhome)
+
+### Admin Home page
 
 ![](images/m2-admin-home-page.PNG)
 
 Management stuff for the owner to administer the website. *In progress.*
+
+[Go to admin home page.](http://165.227.8.196/#/adminhome)
 
 ### Add Restaurants page
 
@@ -98,7 +119,9 @@ Management stuff for the owner to administer the website. *In progress.*
 
 Add a vendor for another food establishment. *In progress.*
 
-### User profile page
+[Go to add restaurants page.](http://165.227.8.196/#/add)
+
+### User Profile page
 
 ![](images/m2-my-profile.PNG)
 
@@ -113,7 +136,7 @@ This page is where user profiles are created. Users can add or remove preference
 
 Displays a list of available restaurants or vendors. 
 
-[Go to restaurants page.](http://165.227.8.196/#/vendor)
+[Go to list restaurants page.](http://165.227.8.196/#/vendor)
 
 ### Menu page
 
@@ -122,20 +145,24 @@ Displays a list of available restaurants or vendors.
 
 Presents foods that different establishments on campus are currently serving.
 
-[Go to food avaliable page.](http://165.227.8.196/#/menu)
+[Go to menu page.](http://165.227.8.196/#/menu)
 
-### Today’s top picks page
+### Today’s Top Picks page
 
 ![](images/m2-top-picks-1.PNG)
 ![](images/m2-top-picks-2.PNG)
 
 Sometimes users might want to try something new but they're unsure about what they want. This page makes it easy by showing top picks curated by restaurants. *In progress.*
 
-### Favorites
+[Go to today's top picks page.](http://165.227.8.196/#/todaystoppicks)
+
+### Favorites page
 
 ![](images/m2-favorites.PNG)
 
 This page will show all of the current user's favorited menu items.
+
+[Go to favorites page.](http://165.227.8.196/#/fav)
 
 ## Developer Guide
 
