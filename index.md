@@ -44,21 +44,21 @@ Clicking on the Login link, then on the Sign In menu item displays this page.
 
 #### Register page
 
-![](images/m2-register.png)
+![](images/m2-register.PNG)
 
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page.
 
 #### User Landing Page
 
-![](images/m2-user-landing.png)
+![](images/m2-user-landing.PNG)
 
 Once you log in to a user account (either to an existing account or by creating a new one), the navbar changes as shown above.
 
 You can now access the home page, today's top picks, favorites, list restaurants, menu, and my profile.
 
 #### Vendor Landing page
-*INSERT IMAGE*
-![](images/m2-vendor-landing.png)
+
+![](images/m2-vendor-landing.PNG)
 
 Once you log in to a vendor account (either to an existing account or by creating a new one), the navbar changes as shown above.
 
@@ -66,7 +66,7 @@ On top of the user pages, you can also access the vendor home and add restaurant
 
 #### Admin Landing page
 
-![](images/m2-admin-landing.png)
+![](images/m2-admin-landing.PNG)
 
 Once you log in to a admin account (either to an existing account or by creating a new one), the navbar changes as shown above.
 
@@ -74,7 +74,7 @@ On top of the user pages, you can also access the admin home and admin pages.
 
 ### User home page
 
-![](images/m2-user-home-page.jpg)
+![](images/m2-user-home-page.PNG)
 
 Similar to the landing page but the description and messages are geared more towards encouraging the user to tour other parts of the site, such as a link to edit their profile, view the menu, and view different restaurants. 
 
@@ -82,9 +82,13 @@ Similar to the landing page but the description and messages are geared more tow
 
 ### Vendor home page
 
+![](images/m2-vendor-home-page.PNG)
+
 Allows different restaurants, cafes, eateries, food trucks and bars around the campus to specify their choices of the day or modify their profile. *In progress.*
 
 ### Admin home page
+
+![](images/m2-admin-home-page.PNG)
 
 Management stuff for the owner to administer the website. *In progress.*
 
