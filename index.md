@@ -119,7 +119,7 @@ Management stuff for the owner to administer the website. *In progress.*
 
 Add a vendor for another food establishment. *In progress.*
 
-[Go to add restaurants page.](http://165.227.8.196/#/edit)
+[Go to add restaurants page.](http://165.227.8.196/#/add)
 
 ### User Profile page
 
