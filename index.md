@@ -143,10 +143,9 @@ Displays a list of available restaurants or vendors.
 
 ### Menu page
 
-![](images/m2-menu-1.PNG)
-![](images/m2-menu-2.PNG)
+![](images/m3-menu.PNG)
 
-Presents foods that different establishments on campus are currently serving.
+Presents foods that different establishments on campus are currently serving. Search bar allows users to search for specific establishments to view their menus.
 
 [Go to menu page.](http://157.230.89.84/#/menu)
 
@@ -155,17 +154,21 @@ Presents foods that different establishments on campus are currently serving.
 ![](images/m2-top-picks-1.PNG)
 ![](images/m2-top-picks-2.PNG)
 
-Sometimes users might want to try something new but they're unsure about what they want. This page makes it easy by showing top picks curated by restaurants. *In progress.*
+Sometimes users might want to try something new but they're unsure about what they want. This page makes it easy by showing top picks curated by restaurants.
 
 [Go to today's top picks page.](http://157.230.89.84/#/todaystoppicks)
 
-### Favorites page
+### Favorites and Smart Menu page
 
-![](images/m2-favorites.PNG)
+![](images/m3-favorites.PNG)
 
-This page will show all of the current user's favorited menu items.
+This page will show all of the current user's favorited menu items. It also contains Campus Craving's Smart Menu. This tool takes the user's prefrences into account and recommends them restaurants that serve the foods that match these prefrences. 
 
 [Go to favorites page.](http://157.230.89.84/#/fav)
+
+### Whats Open page
+
+This page displays the cards of restaurants that are currently open.
 
 ## Community Feedback
 
