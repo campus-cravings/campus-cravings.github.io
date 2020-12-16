@@ -176,7 +176,7 @@ This page will show all of the current user's favorited menu items. It also cont
 
 ### Whats Open page
 
-This page displays the cards of restaurants that are currently open.
+This page displays the cards of restaurants that are currently open based on Hawaii standard time.
 
 [Go to whats open page.](http://157.245.221.63/#/avail)
 
