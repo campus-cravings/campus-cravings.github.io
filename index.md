@@ -98,7 +98,7 @@ On top of the user pages, you can also access the admin home and admin pages.
 
 Similar to the landing page but the description and messages are geared more towards encouraging the user to tour other parts of the site, such as a link to edit their profile, view the menu, and view different restaurants. 
 
-[Go to user home page](http://157.230.89.84/#/userhome)
+[Go to user home page](http://157.245.221.63/#/userhome)
 
 ### Vendor Home page
 
@@ -106,23 +106,23 @@ Similar to the landing page but the description and messages are geared more tow
 
 Allows different restaurants, cafes, eateries, food trucks and bars around the campus to specify their choices of the day or modify their profile. *In progress.*
 
-[Go to vendor home page.](http://157.230.89.84/#/vendorhome)
+[Go to vendor home page.](http://157.245.221.63/#/vendorhome)
 
 ### Admin Home page
 
 ![](images/m2-admin-home-page.PNG)
 
-Management stuff for the owner to administer the website. *In progress.*
+Management tools for the owner to administer the website. 
 
-[Go to admin home page.](http://157.230.89.84/#/adminhome)
+[Go to admin home page.](http://157.245.221.63/#/adminhome)
 
 ### Add Restaurants page
 
 ![](images/m2-add-restaurants.PNG)
 
-Add a vendor for another food establishment. *In progress.*
+Add a vendor for another food establishment. 
 
-[Go to add restaurants page.](http://157.230.89.84/#/add)
+[Go to add restaurants page.](http://157.245.221.63/#/add)
 
 ### User Profile page
 
@@ -130,16 +130,16 @@ Add a vendor for another food establishment. *In progress.*
 
 This page is where user profiles are created. Users can add or remove preferences on the food they like to eat (ie. vegan, vegetarian, gluten-free, nut-free, hawaiian, etc.). 
 
-[Go to user profile page.](http://157.230.89.84/#/profile)
+[Go to user profile page.](http://157.245.221.63/#/profile)
 
-### List Restaurants page
+### All Restaurants page
 
 ![](images/m2-list-restaurants-1.PNG)
 ![](images/m2-list-restaurants-2.PNG)
 
-Displays a list of available restaurants or vendors. 
+Displays a list of all restaurants or vendors on campus. 
 
-[Go to list restaurants page.](http://157.230.89.84/#/vendor)
+[Go to list restaurants page.](http://157.245.221.63/#/vendor)
 
 ### Menu page
 
@@ -147,16 +147,22 @@ Displays a list of available restaurants or vendors.
 
 Presents foods that different establishments on campus are currently serving. Search bar allows users to search for specific establishments to view their menus.
 
-[Go to menu page.](http://157.230.89.84/#/menu)
+[Go to menu page.](http://157.245.221.63/#/menu)
 
-### Today’s Top Picks page
+### Featured page
 
 ![](images/m2-top-picks-1.PNG)
 ![](images/m2-top-picks-2.PNG)
 
-Sometimes users might want to try something new but they're unsure about what they want. This page makes it easy by showing top picks curated by restaurants.
+Sometimes users might want to try something new but they're unsure about what they want. This page makes it easy by showing featured dishes curated by restaurants.
 
-[Go to today's top picks page.](http://157.230.89.84/#/todaystoppicks)
+[Go to today's top picks page.](http://157.245.221.63/#/featuredpicks)
+
+### Add Featured Dish page
+
+For vendors looking to propmote a certain dish.
+
+[Go to add a featured dish page.](http://157.245.221.63/#/addfeatured)
 
 ### Favorites and Smart Menu page
 
@@ -164,11 +170,19 @@ Sometimes users might want to try something new but they're unsure about what th
 
 This page will show all of the current user's favorited menu items. It also contains Campus Craving's Smart Menu. This tool takes the user's prefrences into account and recommends them restaurants that serve the foods that match these prefrences. 
 
-[Go to favorites page.](http://157.230.89.84/#/fav)
+[Go to favorites page.](http://157.245.221.63/#/fav)
 
 ### Whats Open page
 
 This page displays the cards of restaurants that are currently open.
+
+[Go to whats open page.](http://157.245.221.63/#/avail)
+
+### Admin page
+
+As an admin, you can access user data regaurding the types of dishes they like.
+
+[Go to the Admin only page.](http://157.245.221.63/#/adminfav)
 
 ## Community Feedback
 
