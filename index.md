@@ -1,5 +1,5 @@
 ## Digital Ocean Deployment
-[http://157.230.89.84/](http://157.230.89.84/#/)
+[http://157.245.221.63/](http://157.245.221.63/#/)
 
 ## Table of Contents
 
@@ -175,6 +175,8 @@ This page will show all of the current user's favorited menu items. It also cont
 [Go to favorites page.](http://157.245.221.63/#/fav)
 
 ### Whats Open page
+
+![](images/m3-whats-open.PNG)
 
 This page displays the cards of restaurants that are currently open based on Hawaii standard time.
 
