@@ -1,9 +1,12 @@
+## Digital Ocean Deployment
+[http://157.230.89.84/](http://157.230.89.84/#/)
+
 ## Table of Contents
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
-* [Digital Ocean Deployment](#digital-ocean-deployment)
 * [Milestones](#milestones)
 * [The Team](#the-team)
 
@@ -164,6 +167,10 @@ This page will show all of the current user's favorited menu items.
 
 [Go to favorites page.](http://157.230.89.84/#/fav)
 
+## Community Feedback
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum nisi sit amet iaculis scelerisque. Integer orci velit, tempus ac tellus in, blandit sodales justo. Nam in velit in velit pretium dapibus. Nam euismod mauris vitae erat hendrerit ullamcorper. Sed suscipit posuere risus. Morbi suscipit eget purus in pulvinar. Curabitur sit amet tempus nisi, at mollis felis. Ut tincidunt elit et eros euismod, ac volutpat mauris pulvinar. Phasellus mi nulla, scelerisque a commodo nec, fermentum id neque. Nulla massa neque, suscipit et urna id, porttitor tempus elit. Nam egestas volutpat ex, vitae feugiat quam finibus posuere. Cras iaculis lectus nisl, sed faucibus elit elementum vitae. Suspendisse venenatis risus ac arcu maximus, id pharetra lorem auctor. Integer dictum, mi vel rhoncus laoreet, lorem mi varius tortor, nec sodales nibh risus vel ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
 ## Developer Guide
 
 First, [install Meteor](https://www.meteor.com/install).
@@ -287,9 +294,6 @@ You can verify that the code obeys our coding standards by running ESLint over t
 meteor npm run lint
 ```
 
-## Digital Ocean Deployment
-[http://157.230.89.84/](http://157.230.89.84/#/)
-
 ## Milestones
 
 ### M1
@@ -305,7 +309,7 @@ Our finished M2 can be found [here](https://github.com/campus-cravings/campus-cr
 
 ### M3
 
-M3 is currently in progress and can be found [here](https://github.com/campus-cravings/campus-cravings/projects/4).
+Our finished M3 can be found [here](https://github.com/campus-cravings/campus-cravings/projects/4).
 
 ## The Team
 *Created by [Alexander Lum](https://aklum3.github.io/), [Rainier Javillo](https://rainllo.github.io/), [Riley Sodetani](https://rileyts.github.io/), and [Ty Ikenaga](https://tikenaga.github.io/).*
