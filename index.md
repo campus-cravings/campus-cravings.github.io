@@ -160,6 +160,8 @@ Sometimes users might want to try something new but they're unsure about what th
 
 ### Add Featured Dish page
 
+![](images/m3-add-featured.PNG)
+
 For vendors looking to propmote a certain dish.
 
 [Go to add a featured dish page.](http://157.245.221.63/#/addfeatured)
@@ -180,7 +182,9 @@ This page displays the cards of restaurants that are currently open.
 
 ### Admin page
 
-As an admin, you can access user data regaurding the types of dishes they like.
+![](images/m3-admin.PNG)
+
+As an admin, you can access data like the the favorite dishes amound Campus Craving users. In the intrest of user privacy there names are not attached to this data.
 
 [Go to the Admin only page.](http://157.245.221.63/#/adminfav)
 
