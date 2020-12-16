@@ -309,6 +309,7 @@ Our finished M2 can be found [here](https://github.com/campus-cravings/campus-cr
 
 ### M3
 
+![](images/m3.PNG)
 Our finished M3 can be found [here](https://github.com/campus-cravings/campus-cravings/projects/4).
 
 ## The Team
