@@ -1,5 +1,5 @@
 ## Digital Ocean Deployment
-[http://157.245.221.63/](http://157.245.221.63/#/)
+[https://campuscravings.xyz/#/](https://campuscravings.xyz/#/)
 
 ## Table of Contents
 
@@ -44,7 +44,7 @@ The landing page is presented to users when they first visit the site. This page
 
 The next step is to use the Login menu to either Login to an existing account or register a new account.
 
-[Go to landing page.](http://157.230.89.84/#/)
+[Go to landing page.](https://campuscravings.xyz/#/)
 
 #### Login page
 
@@ -52,7 +52,7 @@ The next step is to use the Login menu to either Login to an existing account or
 
 Clicking on the Login link, then on the Sign In menu item displays this page.
 
-[Go to login page.](http://157.245.221.63/#/signin)
+[Go to login page.](https://campuscravings.xyz/#/signin)
 
 #### Register page
 
@@ -60,7 +60,7 @@ Clicking on the Login link, then on the Sign In menu item displays this page.
 
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page.
 
-[Go to register page.](http://157.245.221.63/#/signup)
+[Go to register page.](https://campuscravings.xyz/#/signup)
 
 ### User Home page
 
@@ -68,7 +68,7 @@ Alternatively, clicking on the Login link, then on the Sign Up menu item display
 
 Similar to the landing page but the description and messages are geared more towards encouraging the user to tour other parts of the site, such as a link to edit their profile, view the menu, and view different restaurants. 
 
-[Go to user home page](http://157.245.221.63/#/userhome)
+[Go to user home page](https://campuscravings.xyz/#/userhome)
 
 ### Vendor Home page
 
@@ -76,7 +76,7 @@ Similar to the landing page but the description and messages are geared more tow
 
 Allows different restaurants, cafes, eateries, food trucks and bars around the campus to specify their choices of the day or modify their profile. *In progress.*
 
-[Go to vendor home page.](http://157.245.221.63/#/vendorhome)
+[Go to vendor home page.](https://campuscravings.xyz/#/vendorhome)
 
 ### Admin Home page
 
@@ -84,7 +84,7 @@ Allows different restaurants, cafes, eateries, food trucks and bars around the c
 
 Management tools for the owner to administer the website. 
 
-[Go to admin home page.](http://157.245.221.63/#/adminhome)
+[Go to admin home page.](https://campuscravings.xyz/#/adminhome)
 
 ### Add Restaurants page
 
@@ -92,7 +92,7 @@ Management tools for the owner to administer the website.
 
 Add a vendor for another food establishment. 
 
-[Go to add restaurants page.](http://157.245.221.63/#/add)
+[Go to add restaurants page.](https://campuscravings.xyz/#/add)
 
 ### User Profile page
 
@@ -100,7 +100,7 @@ Add a vendor for another food establishment.
 
 This page is where user profiles are created. Users can add or remove preferences on the food they like to eat (ie. vegan, vegetarian, gluten-free, nut-free, hawaiian, etc.). 
 
-[Go to user profile page.](http://157.245.221.63/#/profile)
+[Go to user profile page.](https://campuscravings.xyz/#/profile)
 
 ### All Restaurants page
 
@@ -109,7 +109,7 @@ This page is where user profiles are created. Users can add or remove preference
 
 Displays a list of all restaurants or vendors on campus. 
 
-[Go to list restaurants page.](http://157.245.221.63/#/vendor)
+[Go to list restaurants page.](https://campuscravings.xyz/#/vendor)
 
 ### Menu page
 
@@ -117,7 +117,7 @@ Displays a list of all restaurants or vendors on campus.
 
 Presents foods that different establishments on campus are currently serving. Search bar allows users to search for specific establishments to view their menus.
 
-[Go to menu page.](http://157.245.221.63/#/menu)
+[Go to menu page.](https://campuscravings.xyz/#/menu)
 
 ### Featured page
 
@@ -126,7 +126,7 @@ Presents foods that different establishments on campus are currently serving. Se
 
 Sometimes users might want to try something new but they're unsure about what they want. This page makes it easy by showing featured dishes curated by restaurants.
 
-[Go to today's top picks page.](http://157.245.221.63/#/featuredpicks)
+[Go to today's top picks page.](https://campuscravings.xyz/#/featuredpicks)
 
 ### Add Featured Dish page
 
@@ -134,7 +134,7 @@ Sometimes users might want to try something new but they're unsure about what th
 
 For vendors looking to propmote a certain dish.
 
-[Go to add a featured dish page.](http://157.245.221.63/#/addfeatured)
+[Go to add a featured dish page.](https://campuscravings.xyz/#/addfeatured)
 
 ### Favorites and Smart Menu page
 
@@ -142,7 +142,7 @@ For vendors looking to propmote a certain dish.
 
 This page will show all of the current user's favorited menu items. It also contains Campus Craving's Smart Menu. This tool takes the user's prefrences into account and recommends them restaurants that serve the foods that match these prefrences. 
 
-[Go to favorites page.](http://157.245.221.63/#/fav)
+[Go to favorites page.](https://campuscravings.xyz/#/fav)
 
 ### Whats Open page
 
@@ -150,7 +150,7 @@ This page will show all of the current user's favorited menu items. It also cont
 
 This page displays the cards of restaurants that are currently open based on Hawaii standard time.
 
-[Go to whats open page.](http://157.245.221.63/#/avail)
+[Go to whats open page.](https://campuscravings.xyz/#/avail)
 
 ### Admin page
 
@@ -158,7 +158,7 @@ This page displays the cards of restaurants that are currently open based on Haw
 
 As an admin, you can access data like the the favorite dishes amound Campus Craving users. In the intrest of user privacy there names are not attached to this data.
 
-[Go to the Admin only page.](http://157.245.221.63/#/adminfav)
+[Go to the Admin only page.](https://campuscravings.xyz/#/adminfav)
 
 ## Community Feedback
 
