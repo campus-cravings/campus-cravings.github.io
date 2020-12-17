@@ -195,7 +195,7 @@ As an admin, you can access data like the the favorite dishes amound Campus Crav
 
 ## Community Feedback
 
-Out of the five community members we had review our deployed page, most of them thought the site was significantly complete and had some 'cool' features.  We also received constructive criticism that mostly was suggestions on how the website could be improved.  An ideas was to make it so that vendors could add menus to their new restaurants.  While having people review the site, we also found out that there was no feature to remove restaurants as a vendor, so future work would include adding this option. Another improvement that was suggested was to add more navigation links on certain pages.  For example, the restaurants page could contain a button/link that takes the user to the menu for the specific restaurant, instead of having to go the navbar and click menus.
+Out of the five community members we had review our deployed page, most of them thought the site was significantly complete and had some 'cool' features.  We also received constructive criticism that was mostly suggestions on how the website could be improved.  An idea was to make it so that vendors could add menus to their new restaurants.  While having people review the site, we also found out that there was no feature to remove restaurants as a vendor, so future work would include adding this option. Another improvement that was suggested was to add more navigation links on certain pages.  For example, the restaurants page could contain a button/link that takes the user to the menu for the specific restaurant, instead of having to go the navbar and click menus.
 
 ## Developer Guide
 
