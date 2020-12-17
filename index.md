@@ -22,9 +22,6 @@ The Campus Cravings app aims to solve this problem by providing an up-to-date re
 * [Landing page](#landing-page)
 * [Login page](#login-page)
 * [Register page](#register-page)
-* [User Landing page](#user-landing-page)
-* [Vendor Landing page](#vendor-landing-page)
-* [Admin Landing page](#admin-landing-page)
 * [User Home page](#user-home-page)
 * [Vendor Home page](#vendor-home-page)
 * [Admin Home page](#admin-home-page)
@@ -55,7 +52,7 @@ The next step is to use the Login menu to either Login to an existing account or
 
 Clicking on the Login link, then on the Sign In menu item displays this page.
 
-[Go to login page.](http://157.230.89.84/#/signin)
+[Go to login page.](http://157.245.221.63/#/signin)
 
 #### Register page
 
@@ -63,37 +60,7 @@ Clicking on the Login link, then on the Sign In menu item displays this page.
 
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page.
 
-[Go to register page.](http://157.230.89.84/#/signup)
-
-#### User Landing Page
-
-![](images/m2-user-landing.PNG)
-
-Once you log in to a user account (either to an existing account or by creating a new one), the navbar changes as shown above.
-
-You can now access the home page, today's top picks, favorites, list restaurants, menu, and my profile.
-
-[Go to user landing page.](http://157.230.89.84/#/)
-
-#### Vendor Landing page
-
-![](images/m2-vendor-landing.PNG)
-
-Once you log in to a vendor account (either to an existing account or by creating a new one), the navbar changes as shown above.
-
-On top of the user pages, you can also access the vendor home and add restaurants pages.
-
-[Go to vendor landing page.](http://157.230.89.84/#/)
-
-#### Admin Landing page
-
-![](images/m2-admin-landing.PNG)
-
-Once you log in to a admin account (either to an existing account or by creating a new one), the navbar changes as shown above.
-
-On top of the user pages, you can also access the admin home and admin pages.
-
-[Go to admin landing page.](http://157.230.89.84/#/)
+[Go to register page.](http://157.245.221.63/#/signup)
 
 ### User Home page
 
