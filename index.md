@@ -33,7 +33,7 @@ The Campus Cravings app aims to solve this problem by providing an up-to-date re
 * [List Restaurants page](#list-restaurants-page)
 * [Menu page](#menu-page)
 * [Featured page](#featured-page)
-* [Add Featured page](#add-featured-page)
+* [Add Featured page](#add-featured-dish-page)
 * [Favorites and Smart Menu page](#favorites-and-smart-menu-page)
 * [Whats Open page](#whats-open-page)
 * [Admin only page](#admin-page)
